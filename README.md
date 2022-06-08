@@ -16,7 +16,5 @@ OLÁ! SOU O MATHEUS SOARES
 
      ![Snake animation](https://github.com/matheusferreiraa/matheusferreiraa/blob/output/github-contribution-grid-snake.svg)
  
-     
-     
  </div>
        
